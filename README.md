@@ -14,3 +14,6 @@ This Privacy Policy may occasionally be updated. It is therefore recommended tha
 ## Contact information
 If you have any questions, suggestions or concerns about this Policy, please send your communication to the following email address:
 francis.quiers@gmail.com
+
+## Note
+Android is a trademark of Google LLC.
